@@ -3,7 +3,7 @@ Remote working means the worker get to choose his/her own workplace anywhere he/
 <!-- - Remote working can only happen with the rise of technology, now people can share documents, do presentation or have a meeting with other people across the world through a computer. -->
 # Why should we work remotely?
 - The most important thing to consider a worker's performance is how much work he/she has done, not how they do it. Therefore, it doesn't matter where the worker works, an office or a cafe or at home, as long as the work is done.
-- To check progress or have a meeting or collaborate with each others, we have the technology as Microsoft Teams, Slack, Skype, etc. to assist us. It doesn't need to happened in an office.
+- To check progress or have a meeting or collaborate with each others, we have the technology as Microsoft Teams, Slack, Skype, etc. to assist us. It doesn't need to be happened in an office.
 - One of the key thing to be productive is eleminating as much interruptions as possible and settle yourself into the productivity zone. Remote work offers the workers the choice to find their own zone instead of getting the office as the only place to work. The quality of the work will increase as the workers find their zone.
 - Assuming the average time of commuting to office everyday is 1.5 hours, that's 400 hours a year, 400 hours is the total time of Basecamp build time, 400 hours is a lot of time wasted. With remote work, there will be less (or even no more) commuting, no more time wasted, for employers and employees, win-win.
 - Employer can hire great talent from anywhere, bring great values to the company without worrying about space boundary.
