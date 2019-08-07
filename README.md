@@ -17,7 +17,7 @@ The flow of progressing information through the company is comforting. As an emp
 ## Be aware
 Remote work gives you lots of goods and things, but there are also trade-offs. It gives you the freedom of time and space but it doesn't guarantee you will be productive, consistently.
 - Cafe, co-working places or your home are just workplaces, just like the office, there will be distractions. We’re all human and we all occasionally fall prey to temptation. But you can deal with that, because you're a responsible adult. If you can't get the job done, then remote work is not for you.
-- Mental health is a real thing. Working alone could lead you to be isolated. Having a conversation with your colleagues sometimes
+- Mental health is a real thing. Working alone could lead you to be isolated. Have a conversation with your colleagues sometimes.
 - Without building a good routine, you could get your health into bad state, or letting your passion control you too much and get lost in the work, leading to burnout. Avoid working too much simply cause of driving of passion. 40 hours a week is enough.
 # Summary
 Remote work is the modern way of working, it fits the current state of current world and will be the future style of work. It's important to understand the idea of it and how it works so you can be ready and embrace it in the future.
